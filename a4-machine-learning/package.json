@@ -1,0 +1,19 @@
+{
+  "name": "a4-machine-learning",
+  "version": "1.0.0",
+  "description": "* In this assignment, you shall implement the Naïve Bayes machine learning algorithm and use it on some datasets.\r * You can use any programming language you like.\r * ~~You can work alone or in a group of two students.~~\r * You shall present your application and code at an oral examination.\r * You are not required to build a REST web service for this assignment.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.lnu.se:2dv515/student/sj223gb/a4-machine-learning.git"
+  },
+  "author": "Sebastian Jonsson",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}

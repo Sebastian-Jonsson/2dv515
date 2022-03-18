@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "In the project, you decide what you want to work on! There are several pre-defined projects you can select from. Choose one of them!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.lnu.se:2dv515/student/sj223gb/project.git"
+  },
+  "author": "Sebastian Jonsson",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "*",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
